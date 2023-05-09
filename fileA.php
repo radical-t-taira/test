@@ -1,2 +1,4 @@
 <?php
-// mergeテストAでコミット1
+// rebaseてすとコミット1
+// rebaseてすとコミット2
+// rebaseてすとコミット3

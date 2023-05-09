@@ -3,3 +3,4 @@
 // rebaseテストBで実装2
 
 // mergeテストB実装1
+// mergeテストB実装2

@@ -1,3 +1,3 @@
 # rebaseをちゃんと理解して使えるようになろう！！
-## 簡単なrebaseの説明
-rebase-test1にてコミット
+## mergeとの違い
+rebase、mergeはどちらもブランチを統合するコマンド。

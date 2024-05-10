@@ -1,5 +1,2 @@
 # test
-- SPACETEST-T-17 Space-PhpStorm連携テスト2
-- SPACETEST-T-18 Space-PhpStorm連携テスト3
-- SPACETEST-T-19 Space-PhpStorm連携テスト4
-- SPACETEST-T-20 Space-PhpStorm連携テスト5
+- SPACETEST-T-21 Space-PhpStorm連携テスト6

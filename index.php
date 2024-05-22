@@ -1,2 +1,2 @@
 <?php
-echo 'YouTrackコミットテスト2';
+echo 'SPACETEST-T-23 テスト課題5/22';

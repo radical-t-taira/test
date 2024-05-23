@@ -1,2 +1,2 @@
 <?php
-echo 'SPACETEST-T-23 テスト課題5/22';
+echo 'SPACETEST-T-25 テスト課題5/23';

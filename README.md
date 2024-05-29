@@ -1,2 +1,2 @@
 # test
-- SPACETEST-T-25 テスト課題5/23
+- SPACETEST-T-28 テスト課題2024-05-29
